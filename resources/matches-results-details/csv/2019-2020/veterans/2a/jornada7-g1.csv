@@ -1,19 +1,19 @@
-abc_team,xyz_team,abc_player_letter,abc_player_license,abc_player_name,abc_player_score,xyz_player_letter,xyz_player_license,xyz_player_name,xyz_player_score
-SCR EL CIERVO ''B'',CTT SANT QUINTÍ DE MEDIONA,B,6231,MATIAS Jordi,3,X,413,LLOBET Ramon,2
-SCR EL CIERVO ''B'',CTT SANT QUINTÍ DE MEDIONA,A,6223,VILA Jordi,3,X,413,LLOBET Ramon,1
-SCR EL CIERVO ''B'',CTT SANT QUINTÍ DE MEDIONA,B,6231,MATIAS Jordi,3,Z,517,MARTI Josep,2
-TERMOTUR CALELLA,TT PRAT LISANT,B,286,CARMONA Manuel,2,X,5638,RABADAN Luis,3
-TERMOTUR CALELLA,TT PRAT LISANT,C,150,FONT Jordi,1,Z,842,RUIZ Amador,3
-TERMOTUR CALELLA,TT PRAT LISANT,A,1663,JOFRE Jaume,3,X,5638,RABADAN Luis,0
-TERMOTUR CALELLA,TT PRAT LISANT,C,150,FONT Jordi,0,Y,684,JULIÀ Fèlix,3
-TERMOTUR CALELLA,TT PRAT LISANT,B,286,CARMONA Manuel,1,Z,842,RUIZ Amador,3
-AGRUPACIÓ CONGRÉS,TITUS BADALONA,B,27,MADURELL Josep,1,X,963,NOLIS Pau,3
-AGRUPACIÓ CONGRÉS,TITUS BADALONA,C,2159,GARCIA Daniel,2,Z,635,MARTÍNEZ Antonio,3
-AGRUPACIÓ CONGRÉS,TITUS BADALONA,A,208,COCHRAN Jordi,0,X,963,NOLIS Pau,3
-AGRUPACIÓ CONGRÉS,TITUS BADALONA,C,2159,GARCIA Daniel,0,Y,6879,HURTADO Jose Alberto,3
-AGRUPACIÓ CONGRÉS,TITUS BADALONA,B,27,MADURELL Josep,2,Z,635,MARTÍNEZ Antonio,3
-LLUÏSOS D'HORTA TT,CTT DELS HORTS 2000 ''B'',B,430,CARREÑO Herminio,0,X,687,BARCOJO Antonio,3
-LLUÏSOS D'HORTA TT,CTT DELS HORTS 2000 ''B'',C,369,MORATA Genis,3,Z,4287,PAMIAS Josep,2
-LLUÏSOS D'HORTA TT,CTT DELS HORTS 2000 ''B'',A,510,PERPIÑA Jordi,3,X,687,BARCOJO Antonio,0
-LLUÏSOS D'HORTA TT,CTT DELS HORTS 2000 ''B'',C,369,MORATA Genis,3,Y,4289,PAMIAS Guillem,0
-LLUÏSOS D'HORTA TT,CTT DELS HORTS 2000 ''B'',B,430,CARREÑO Herminio,3,Z,4287,PAMIAS Josep,1
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+7,19/11/19,,,singles,,,,,,,CTT SANT QUINTÍ DE MEDIONA,X,413,LLOBET Ramon,2,,,,,,SCR EL CIERVO ''B'',B,6231,MATIAS Jordi,3,,,,
+7,19/11/19,,,singles,,,,,,,CTT SANT QUINTÍ DE MEDIONA,X,413,LLOBET Ramon,1,,,,,,SCR EL CIERVO ''B'',A,6223,VILA Jordi,3,,,,
+7,19/11/19,,,singles,,,,,,,CTT SANT QUINTÍ DE MEDIONA,Z,517,MARTI Josep,2,,,,,,SCR EL CIERVO ''B'',B,6231,MATIAS Jordi,3,,,,
+7,19/11/19,,,singles,,,,,,,TERMOTUR CALELLA,B,286,CARMONA Manuel,2,,,,,,TT PRAT LISANT,X,5638,RABADAN Luis,3,,,,
+7,19/11/19,,,singles,,,,,,,TERMOTUR CALELLA,C,150,FONT Jordi,1,,,,,,TT PRAT LISANT,Z,842,RUIZ Amador,3,,,,
+7,19/11/19,,,singles,,,,,,,TERMOTUR CALELLA,A,1663,JOFRE Jaume,3,,,,,,TT PRAT LISANT,X,5638,RABADAN Luis,0,,,,
+7,19/11/19,,,singles,,,,,,,TERMOTUR CALELLA,C,150,FONT Jordi,0,,,,,,TT PRAT LISANT,Y,684,JULIÀ Fèlix,3,,,,
+7,19/11/19,,,singles,,,,,,,TERMOTUR CALELLA,B,286,CARMONA Manuel,1,,,,,,TT PRAT LISANT,Z,842,RUIZ Amador,3,,,,
+7,19/11/19,,,singles,,,,,,,TITUS BADALONA,X,963,NOLIS Pau,3,,,,,,AGRUPACIÓ CONGRÉS,B,27,MADURELL Josep,1,,,,
+7,19/11/19,,,singles,,,,,,,TITUS BADALONA,Z,635,MARTÍNEZ Antonio,3,,,,,,AGRUPACIÓ CONGRÉS,C,2159,GARCIA Daniel,2,,,,
+7,19/11/19,,,singles,,,,,,,TITUS BADALONA,X,963,NOLIS Pau,3,,,,,,AGRUPACIÓ CONGRÉS,A,208,COCHRAN Jordi,0,,,,
+7,19/11/19,,,singles,,,,,,,TITUS BADALONA,Y,6879,HURTADO Jose Alberto,3,,,,,,AGRUPACIÓ CONGRÉS,C,2159,GARCIA Daniel,0,,,,
+7,19/11/19,,,singles,,,,,,,TITUS BADALONA,Z,635,MARTÍNEZ Antonio,3,,,,,,AGRUPACIÓ CONGRÉS,B,27,MADURELL Josep,2,,,,
+7,21/11/19,,,singles,,,,,,,LLUÏSOS D'HORTA TT,B,430,CARREÑO Herminio,0,,,,,,CTT DELS HORTS 2000 ''B'',X,687,BARCOJO Antonio,3,,,,
+7,21/11/19,,,singles,,,,,,,LLUÏSOS D'HORTA TT,C,369,MORATA Genis,3,,,,,,CTT DELS HORTS 2000 ''B'',Z,4287,PAMIAS Josep,2,,,,
+7,21/11/19,,,singles,,,,,,,LLUÏSOS D'HORTA TT,A,510,PERPIÑA Jordi,3,,,,,,CTT DELS HORTS 2000 ''B'',X,687,BARCOJO Antonio,0,,,,
+7,21/11/19,,,singles,,,,,,,LLUÏSOS D'HORTA TT,C,369,MORATA Genis,3,,,,,,CTT DELS HORTS 2000 ''B'',Y,4289,PAMIAS Guillem,0,,,,
+7,21/11/19,,,singles,,,,,,,LLUÏSOS D'HORTA TT,B,430,CARREÑO Herminio,3,,,,,,CTT DELS HORTS 2000 ''B'',Z,4287,PAMIAS Josep,1,,,,

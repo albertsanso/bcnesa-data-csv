@@ -1,19 +1,19 @@
-abc_team,xyz_team,abc_player_letter,abc_player_license,abc_player_name,abc_player_score,xyz_player_letter,xyz_player_license,xyz_player_name,xyz_player_score
-CTT ELS AMICS DE TERRASSA,SCR EL CIERVO ''B'',B,692,CAMPOS Oscar,2,X,2486,BLASCO Vicenç,3
-CTT ELS AMICS DE TERRASSA,SCR EL CIERVO ''B'',C,11007,REGINCÓS Albert,3,Z,370,PLA Joan,2
-CTT ELS AMICS DE TERRASSA,SCR EL CIERVO ''B'',A,734,GIBERT Francesc,3,X,2486,BLASCO Vicenç,2
-CTT ELS AMICS DE TERRASSA,SCR EL CIERVO ''B'',C,11007,REGINCÓS Albert,3,Y,8321,BOADA Isidro,0
-CTT ELS AMICS DE TERRASSA,SCR EL CIERVO ''B'',B,692,CAMPOS Oscar,3,Z,370,PLA Joan,0
-CN SABADELL ''A'',EL CENTRE ''A'',B,4540,WEISZ Monica,3,X,651,CARBONELL Daniel,0
-CN SABADELL ''A'',EL CENTRE ''A'',C,548,WEISZ Joan,3,Z,500,GOMIS Francesc,0
-CN SABADELL ''A'',EL CENTRE ''A'',A,7539,WEISZ Ignasi,2,X,651,CARBONELL Daniel,3
-CN SABADELL ''A'',EL CENTRE ''A'',C,548,WEISZ Joan,3,Y,292,CHACON Alejandro,0
-CN SABADELL ''A'',EL CENTRE ''A'',B,4540,WEISZ Monica,3,Z,500,GOMIS Francesc,0
-CTT VILAFRANCA,ATT PREMIÀ DE MAR,B,5438,BLANCAFORT Jose Maria,1,X,707,GARCIA Xavier,3
-CTT VILAFRANCA,ATT PREMIÀ DE MAR,C,241,MARTINEZ Josep,2,Z,3022,SANTIAGO David Jose,3
-CTT VILAFRANCA,ATT PREMIÀ DE MAR,A,6656,ALVAREZ Antonio,1,X,707,GARCIA Xavier,3
-CTT VILAFRANCA,ATT PREMIÀ DE MAR,C,241,MARTINEZ Josep,3,Y,2983,ESCOLA Francisco Javier,1
-CTT VILAFRANCA,ATT PREMIÀ DE MAR,B,5438,BLANCAFORT Jose Maria,3,Z,3022,SANTIAGO David Jose,2
-CTT CANET DE MAR,CTT ATENEU 1882 ''A'',C,583,COTS Josep,1,Z,837,ALMAGRO Marcos,3
-CTT CANET DE MAR,CTT ATENEU 1882 ''A'',C,583,COTS Josep,1,Y,1723,DIAZ Juan,3
-CTT CANET DE MAR,CTT ATENEU 1882 ''A'',B,571,JODAR Mariano,0,Z,837,ALMAGRO Marcos,3
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+5,05/11/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA,B,692,CAMPOS Oscar,2,,,,,,SCR EL CIERVO ''B'',X,2486,BLASCO Vicenç,3,,,,
+5,05/11/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA,C,11007,REGINCÓS Albert,3,,,,,,SCR EL CIERVO ''B'',Z,370,PLA Joan,2,,,,
+5,05/11/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA,A,734,GIBERT Francesc,3,,,,,,SCR EL CIERVO ''B'',X,2486,BLASCO Vicenç,2,,,,
+5,05/11/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA,C,11007,REGINCÓS Albert,3,,,,,,SCR EL CIERVO ''B'',Y,8321,BOADA Isidro,0,,,,
+5,05/11/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA,B,692,CAMPOS Oscar,3,,,,,,SCR EL CIERVO ''B'',Z,370,PLA Joan,0,,,,
+5,04/11/19,,,singles,,,,,,,CN SABADELL ''A'',B,4540,WEISZ Monica,3,,,,,,EL CENTRE ''A'',X,651,CARBONELL Daniel,0,,,,
+5,04/11/19,,,singles,,,,,,,CN SABADELL ''A'',C,548,WEISZ Joan,3,,,,,,EL CENTRE ''A'',Z,500,GOMIS Francesc,0,,,,
+5,04/11/19,,,singles,,,,,,,CN SABADELL ''A'',A,7539,WEISZ Ignasi,2,,,,,,EL CENTRE ''A'',X,651,CARBONELL Daniel,3,,,,
+5,04/11/19,,,singles,,,,,,,CN SABADELL ''A'',C,548,WEISZ Joan,3,,,,,,EL CENTRE ''A'',Y,292,CHACON Alejandro,0,,,,
+5,04/11/19,,,singles,,,,,,,CN SABADELL ''A'',B,4540,WEISZ Monica,3,,,,,,EL CENTRE ''A'',Z,500,GOMIS Francesc,0,,,,
+5,05/11/19,,,singles,,,,,,,ATT PREMIÀ DE MAR,X,707,GARCIA Xavier,3,,,,,,CTT VILAFRANCA,B,5438,BLANCAFORT Jose Maria,1,,,,
+5,05/11/19,,,singles,,,,,,,ATT PREMIÀ DE MAR,Z,3022,SANTIAGO David Jose,3,,,,,,CTT VILAFRANCA,C,241,MARTINEZ Josep,2,,,,
+5,05/11/19,,,singles,,,,,,,ATT PREMIÀ DE MAR,X,707,GARCIA Xavier,3,,,,,,CTT VILAFRANCA,A,6656,ALVAREZ Antonio,1,,,,
+5,05/11/19,,,singles,,,,,,,ATT PREMIÀ DE MAR,Y,2983,ESCOLA Francisco Javier,1,,,,,,CTT VILAFRANCA,C,241,MARTINEZ Josep,3,,,,
+5,05/11/19,,,singles,,,,,,,ATT PREMIÀ DE MAR,Z,3022,SANTIAGO David Jose,2,,,,,,CTT VILAFRANCA,B,5438,BLANCAFORT Jose Maria,3,,,,
+5,05/11/19,,,singles,,,,,,,CTT CANET DE MAR,C,583,COTS Josep,1,,,,,,CTT ATENEU 1882 ''A'',Z,837,ALMAGRO Marcos,3,,,,
+5,05/11/19,,,singles,,,,,,,CTT CANET DE MAR,C,583,COTS Josep,1,,,,,,CTT ATENEU 1882 ''A'',Y,1723,DIAZ Juan,3,,,,
+5,05/11/19,,,singles,,,,,,,CTT CANET DE MAR,B,571,JODAR Mariano,0,,,,,,CTT ATENEU 1882 ''A'',Z,837,ALMAGRO Marcos,3,,,,
