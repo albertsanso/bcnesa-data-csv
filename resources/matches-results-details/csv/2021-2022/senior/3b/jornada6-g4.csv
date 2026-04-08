@@ -1,19 +1,19 @@
-abc_team,xyz_team,abc_player_letter,abc_player_license,abc_player_name,abc_player_score,xyz_player_letter,xyz_player_license,xyz_player_name,xyz_player_score
-CTT BARCELONA ''B'',LLUÏSOS DE GRÀCIA,A,14109,PALAU Xavi,3,Y,10899,COROMINA Bruno,0
-CTT BARCELONA ''B'',LLUÏSOS DE GRÀCIA,B,11984,GAVIRA Raphael,2,X,13195,COROMINA Joan,3
-CTT BARCELONA ''B'',LLUÏSOS DE GRÀCIA,C,13904,MUR Ot,3,Z,13478,CARMONA Daniel,0
-CTT BARCELONA ''B'',LLUÏSOS DE GRÀCIA,A,14109,PALAU Xavi,2,X,13195,COROMINA Joan,3
-CTT BARCELONA ''B'',LLUÏSOS DE GRÀCIA,C,13904,MUR Ot,3,Y,10899,COROMINA Bruno,0
-CTT BARCELONA ''B'',LLUÏSOS DE GRÀCIA,B,11984,GAVIRA Raphael,3,Z,13478,CARMONA Daniel,0
-LLUÏSOS D'HORTA TT,AGRUPACIÓ CONGRÉS ''A'',A,15133,ISART Pere,3,Y,9097,BALAGUER Juan Enrique,0
-LLUÏSOS D'HORTA TT,AGRUPACIÓ CONGRÉS ''A'',B,15259,PASTO Joan,2,X,14495,ABUIN Roger,3
-LLUÏSOS D'HORTA TT,AGRUPACIÓ CONGRÉS ''A'',C,15135,DUTTO Alberto,3,Z,171,BENITO Emilio,0
-LLUÏSOS D'HORTA TT,AGRUPACIÓ CONGRÉS ''A'',A,15133,ISART Pere,3,X,14495,ABUIN Roger,0
-LLUÏSOS D'HORTA TT,AGRUPACIÓ CONGRÉS ''A'',C,15135,DUTTO Alberto,3,Y,9097,BALAGUER Juan Enrique,1
-LLUÏSOS D'HORTA TT,AGRUPACIÓ CONGRÉS ''A'',B,15259,PASTO Joan,3,Z,171,BENITO Emilio,2
-TT SANT ANDREU,EL CENTRE,A,13315,PLATON Carlos,2,Y,5430,OLIVES Miguel Anton,3
-TT SANT ANDREU,EL CENTRE,B,11214,VALVERDE Octavio,3,X,14936,YU Carlos,1
-TT SANT ANDREU,EL CENTRE,C,13987,CASTAÑO Cristina,0,Z,15770,BARRETO Francisco Javier,3
-TT SANT ANDREU,EL CENTRE,A,13315,PLATON Carlos,3,X,14936,YU Carlos,2
-TT SANT ANDREU,EL CENTRE,C,13987,CASTAÑO Cristina,0,Y,5430,OLIVES Miguel Anton,3
-TT SANT ANDREU,EL CENTRE,B,11214,VALVERDE Octavio,0,Z,15770,BARRETO Francisco Javier,3
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+6,11/12/21,,,singles,,,,,,,CTT BARCELONA ''B'',A,14109,PALAU Xavi,3,,,,,,LLUÏSOS DE GRÀCIA,Y,10899,COROMINA Bruno,0,,,,
+6,11/12/21,,,singles,,,,,,,CTT BARCELONA ''B'',B,11984,GAVIRA Raphael,2,,,,,,LLUÏSOS DE GRÀCIA,X,13195,COROMINA Joan,3,,,,
+6,11/12/21,,,singles,,,,,,,CTT BARCELONA ''B'',C,13904,MUR Ot,3,,,,,,LLUÏSOS DE GRÀCIA,Z,13478,CARMONA Daniel,0,,,,
+6,11/12/21,,,singles,,,,,,,CTT BARCELONA ''B'',A,14109,PALAU Xavi,2,,,,,,LLUÏSOS DE GRÀCIA,X,13195,COROMINA Joan,3,,,,
+6,11/12/21,,,singles,,,,,,,CTT BARCELONA ''B'',C,13904,MUR Ot,3,,,,,,LLUÏSOS DE GRÀCIA,Y,10899,COROMINA Bruno,0,,,,
+6,11/12/21,,,singles,,,,,,,CTT BARCELONA ''B'',B,11984,GAVIRA Raphael,3,,,,,,LLUÏSOS DE GRÀCIA,Z,13478,CARMONA Daniel,0,,,,
+6,11/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS ''A'',Y,9097,BALAGUER Juan Enrique,0,,,,,,LLUÏSOS D'HORTA TT,A,15133,ISART Pere,3,,,,
+6,11/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS ''A'',X,14495,ABUIN Roger,3,,,,,,LLUÏSOS D'HORTA TT,B,15259,PASTO Joan,2,,,,
+6,11/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS ''A'',Z,171,BENITO Emilio,0,,,,,,LLUÏSOS D'HORTA TT,C,15135,DUTTO Alberto,3,,,,
+6,11/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS ''A'',X,14495,ABUIN Roger,0,,,,,,LLUÏSOS D'HORTA TT,A,15133,ISART Pere,3,,,,
+6,11/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS ''A'',Y,9097,BALAGUER Juan Enrique,1,,,,,,LLUÏSOS D'HORTA TT,C,15135,DUTTO Alberto,3,,,,
+6,11/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS ''A'',Z,171,BENITO Emilio,2,,,,,,LLUÏSOS D'HORTA TT,B,15259,PASTO Joan,3,,,,
+6,11/12/21,,,singles,,,,,,,TT SANT ANDREU,A,13315,PLATON Carlos,2,,,,,,EL CENTRE,Y,5430,OLIVES Miguel Anton,3,,,,
+6,11/12/21,,,singles,,,,,,,TT SANT ANDREU,B,11214,VALVERDE Octavio,3,,,,,,EL CENTRE,X,14936,YU Carlos,1,,,,
+6,11/12/21,,,singles,,,,,,,TT SANT ANDREU,C,13987,CASTAÑO Cristina,0,,,,,,EL CENTRE,Z,15770,BARRETO Francisco Javier,3,,,,
+6,11/12/21,,,singles,,,,,,,TT SANT ANDREU,A,13315,PLATON Carlos,3,,,,,,EL CENTRE,X,14936,YU Carlos,2,,,,
+6,11/12/21,,,singles,,,,,,,TT SANT ANDREU,C,13987,CASTAÑO Cristina,0,,,,,,EL CENTRE,Y,5430,OLIVES Miguel Anton,3,,,,
+6,11/12/21,,,singles,,,,,,,TT SANT ANDREU,B,11214,VALVERDE Octavio,0,,,,,,EL CENTRE,Z,15770,BARRETO Francisco Javier,3,,,,

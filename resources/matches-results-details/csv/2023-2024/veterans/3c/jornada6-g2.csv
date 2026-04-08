@@ -1,17 +1,17 @@
-abc_team,xyz_team,abc_player_letter,abc_player_license,abc_player_name,abc_player_score,xyz_player_letter,xyz_player_license,xyz_player_name,xyz_player_score
-EL CENTRE,"TITUS BADALONA ''B""",A,17709,PEREZ Albert,3,Y,13064,REQUENA Oscar,1
-EL CENTRE,"TITUS BADALONA ''B""",C,17874,DONAIRE David,3,Z,12910,LAGRAÑA Mariano,1
-EL CENTRE,"TITUS BADALONA ''B""",A,17709,PEREZ Albert,3,X,10816,LÓPEZ Carlos Alberto,0
-EL CENTRE,"TITUS BADALONA ''B""",C,17874,DONAIRE David,0,Y,13064,REQUENA Oscar,3
-CN ST. ANDREU,CTT ST QUIRZE DEL VALLÈS - Vet C,A,16616,NUÑEZ Francisco,0,Y,1893,JIMENEZ Jose Antonio,3
-CN ST. ANDREU,CTT ST QUIRZE DEL VALLÈS - Vet C,B,3148,DEL AMOR Pedro,0,X,946,PEIRIS Enrique,3
-CN ST. ANDREU,CTT ST QUIRZE DEL VALLÈS - Vet C,C,13059,MEDINA Edwin,3,Z,12124,ALASTUEY Hugo Alberto,0
-CN ST. ANDREU,CTT ST QUIRZE DEL VALLÈS - Vet C,A,16616,NUÑEZ Francisco,1,X,946,PEIRIS Enrique,3
-CN ST. ANDREU,CTT ST QUIRZE DEL VALLÈS - Vet C,C,13059,MEDINA Edwin,1,Y,1893,JIMENEZ Jose Antonio,3
-CN ST. ANDREU,CTT ST QUIRZE DEL VALLÈS - Vet C,B,3148,DEL AMOR Pedro,3,Z,12124,ALASTUEY Hugo Alberto,2
-AGRUPACIÓ CONGRÉS,CT BARCINO,A,622,OTERO Fernando,3,Y,238,GARRIDO Antoni,0
-AGRUPACIÓ CONGRÉS,CT BARCINO,B,6191,JUNI Carlos,0,X,33,CULLA Jose Luis,3
-AGRUPACIÓ CONGRÉS,CT BARCINO,C,13081,GOMEZ David,2,Z,11148,MAZORRA Enric,3
-AGRUPACIÓ CONGRÉS,CT BARCINO,A,622,OTERO Fernando,3,X,33,CULLA Jose Luis,0
-AGRUPACIÓ CONGRÉS,CT BARCINO,C,13081,GOMEZ David,3,Y,238,GARRIDO Antoni,0
-AGRUPACIÓ CONGRÉS,CT BARCINO,B,6191,JUNI Carlos,0,Z,11148,MAZORRA Enric,3
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+6,15/11/23,,,singles,,,,,,,EL CENTRE,A,17709,PEREZ Albert,3,,,,,,"TITUS BADALONA ''B""",Y,13064,REQUENA Oscar,1,,,,
+6,15/11/23,,,singles,,,,,,,EL CENTRE,C,17874,DONAIRE David,3,,,,,,"TITUS BADALONA ''B""",Z,12910,LAGRAÑA Mariano,1,,,,
+6,15/11/23,,,singles,,,,,,,EL CENTRE,A,17709,PEREZ Albert,3,,,,,,"TITUS BADALONA ''B""",X,10816,LÓPEZ Carlos Alberto,0,,,,
+6,15/11/23,,,singles,,,,,,,EL CENTRE,C,17874,DONAIRE David,0,,,,,,"TITUS BADALONA ''B""",Y,13064,REQUENA Oscar,3,,,,
+6,14/11/23,,,singles,,,,,,,CTT ST QUIRZE DEL VALLÈS - Vet C,Y,1893,JIMENEZ Jose Antonio,3,,,,,,CN ST. ANDREU,A,16616,NUÑEZ Francisco,0,,,,
+6,14/11/23,,,singles,,,,,,,CTT ST QUIRZE DEL VALLÈS - Vet C,X,946,PEIRIS Enrique,3,,,,,,CN ST. ANDREU,B,3148,DEL AMOR Pedro,0,,,,
+6,14/11/23,,,singles,,,,,,,CTT ST QUIRZE DEL VALLÈS - Vet C,Z,12124,ALASTUEY Hugo Alberto,0,,,,,,CN ST. ANDREU,C,13059,MEDINA Edwin,3,,,,
+6,14/11/23,,,singles,,,,,,,CTT ST QUIRZE DEL VALLÈS - Vet C,X,946,PEIRIS Enrique,3,,,,,,CN ST. ANDREU,A,16616,NUÑEZ Francisco,1,,,,
+6,14/11/23,,,singles,,,,,,,CTT ST QUIRZE DEL VALLÈS - Vet C,Y,1893,JIMENEZ Jose Antonio,3,,,,,,CN ST. ANDREU,C,13059,MEDINA Edwin,1,,,,
+6,14/11/23,,,singles,,,,,,,CTT ST QUIRZE DEL VALLÈS - Vet C,Z,12124,ALASTUEY Hugo Alberto,2,,,,,,CN ST. ANDREU,B,3148,DEL AMOR Pedro,3,,,,
+6,15/11/23,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,A,622,OTERO Fernando,3,,,,,,CT BARCINO,Y,238,GARRIDO Antoni,0,,,,
+6,15/11/23,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,B,6191,JUNI Carlos,0,,,,,,CT BARCINO,X,33,CULLA Jose Luis,3,,,,
+6,15/11/23,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,C,13081,GOMEZ David,2,,,,,,CT BARCINO,Z,11148,MAZORRA Enric,3,,,,
+6,15/11/23,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,A,622,OTERO Fernando,3,,,,,,CT BARCINO,X,33,CULLA Jose Luis,0,,,,
+6,15/11/23,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,C,13081,GOMEZ David,3,,,,,,CT BARCINO,Y,238,GARRIDO Antoni,0,,,,
+6,15/11/23,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,B,6191,JUNI Carlos,0,,,,,,CT BARCINO,Z,11148,MAZORRA Enric,3,,,,

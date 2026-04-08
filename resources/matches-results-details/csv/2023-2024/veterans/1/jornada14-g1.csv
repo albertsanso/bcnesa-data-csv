@@ -1,25 +1,25 @@
-abc_team,xyz_team,abc_player_letter,abc_player_license,abc_player_name,abc_player_score,xyz_player_letter,xyz_player_license,xyz_player_name,xyz_player_score
-EL CIERVO ''A'',CTT ELS AMICS DE TERRASSA,A,557,VILLORO Xavier,3,Y,856,MARTINEZ Ignasi,1
-EL CIERVO ''A'',CTT ELS AMICS DE TERRASSA,B,199,CASTELLS Francesc,0,X,11007,REGINCÓS Albert,3
-EL CIERVO ''A'',CTT ELS AMICS DE TERRASSA,C,6223,VILA Jordi,0,Z,692,CAMPOS Oscar,3
-EL CIERVO ''A'',CTT ELS AMICS DE TERRASSA,A,557,VILLORO Xavier,0,X,11007,REGINCÓS Albert,3
-EL CIERVO ''A'',CTT ELS AMICS DE TERRASSA,C,6223,VILA Jordi,0,Y,856,MARTINEZ Ignasi,3
-EL CIERVO ''A'',CTT ELS AMICS DE TERRASSA,B,199,CASTELLS Francesc,1,Z,692,CAMPOS Oscar,3
-DECATHLON BADALONA,TT PRAT,A,963,NOLIS Pau,3,Y,850,DURAN Roberto Carlos,1
-DECATHLON BADALONA,TT PRAT,B,17592,LI Yao Jun,2,X,842,RUIZ Amador,3
-DECATHLON BADALONA,TT PRAT,C,10639,CRESPO Pere,3,Z,744,ARDILA Juan Carlos,0
-DECATHLON BADALONA,TT PRAT,A,963,NOLIS Pau,2,X,842,RUIZ Amador,3
-DECATHLON BADALONA,TT PRAT,C,10639,CRESPO Pere,1,Y,850,DURAN Roberto Carlos,3
-DECATHLON BADALONA,TT PRAT,B,17592,LI Yao Jun,3,Z,744,ARDILA Juan Carlos,1
-CTT OLESA,AGRUPACIÓ CONGRÉS,A,645,SUÑE Manel,0,Y,651,CARBONELL Daniel,3
-CTT OLESA,AGRUPACIÓ CONGRÉS,B,631,RUIZ Cristobal,1,X,2159,GARCIA Daniel,3
-CTT OLESA,AGRUPACIÓ CONGRÉS,C,4348,LLONGUERAS Valenti,0,Z,395,EXPOSITO Juan Antonio,3
-CTT OLESA,AGRUPACIÓ CONGRÉS,A,645,SUÑE Manel,2,X,2159,GARCIA Daniel,3
-CTT OLESA,AGRUPACIÓ CONGRÉS,C,4348,LLONGUERAS Valenti,0,Y,651,CARBONELL Daniel,3
-CTT OLESA,AGRUPACIÓ CONGRÉS,B,631,RUIZ Cristobal,0,Z,395,EXPOSITO Juan Antonio,3
-CTT CANET DE MAR,CN SABADELL ''A'',A,480,MAILLO Josep Manel,1,Y,7539,WEISZ Ignasi,3
-CTT CANET DE MAR,CN SABADELL ''A'',B,571,JODAR Mariano,0,X,511,WEISZ Pere,3
-CTT CANET DE MAR,CN SABADELL ''A'',C,583,COTS Josep,2,Z,3637,BARBERA Joan,3
-CTT CANET DE MAR,CN SABADELL ''A'',A,480,MAILLO Josep Manel,1,X,511,WEISZ Pere,3
-CTT CANET DE MAR,CN SABADELL ''A'',C,583,COTS Josep,1,Y,7539,WEISZ Ignasi,3
-CTT CANET DE MAR,CN SABADELL ''A'',B,571,JODAR Mariano,0,Z,3637,BARBERA Joan,3
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+14,30/01/24,,,singles,,,,,,,EL CIERVO ''A'',A,557,VILLORO Xavier,3,,,,,,CTT ELS AMICS DE TERRASSA,Y,856,MARTINEZ Ignasi,1,,,,
+14,30/01/24,,,singles,,,,,,,EL CIERVO ''A'',B,199,CASTELLS Francesc,0,,,,,,CTT ELS AMICS DE TERRASSA,X,11007,REGINCÓS Albert,3,,,,
+14,30/01/24,,,singles,,,,,,,EL CIERVO ''A'',C,6223,VILA Jordi,0,,,,,,CTT ELS AMICS DE TERRASSA,Z,692,CAMPOS Oscar,3,,,,
+14,30/01/24,,,singles,,,,,,,EL CIERVO ''A'',A,557,VILLORO Xavier,0,,,,,,CTT ELS AMICS DE TERRASSA,X,11007,REGINCÓS Albert,3,,,,
+14,30/01/24,,,singles,,,,,,,EL CIERVO ''A'',C,6223,VILA Jordi,0,,,,,,CTT ELS AMICS DE TERRASSA,Y,856,MARTINEZ Ignasi,3,,,,
+14,30/01/24,,,singles,,,,,,,EL CIERVO ''A'',B,199,CASTELLS Francesc,1,,,,,,CTT ELS AMICS DE TERRASSA,Z,692,CAMPOS Oscar,3,,,,
+14,30/01/24,,,singles,,,,,,,TT PRAT,Y,850,DURAN Roberto Carlos,1,,,,,,DECATHLON BADALONA,A,963,NOLIS Pau,3,,,,
+14,30/01/24,,,singles,,,,,,,TT PRAT,X,842,RUIZ Amador,3,,,,,,DECATHLON BADALONA,B,17592,LI Yao Jun,2,,,,
+14,30/01/24,,,singles,,,,,,,TT PRAT,Z,744,ARDILA Juan Carlos,0,,,,,,DECATHLON BADALONA,C,10639,CRESPO Pere,3,,,,
+14,30/01/24,,,singles,,,,,,,TT PRAT,X,842,RUIZ Amador,3,,,,,,DECATHLON BADALONA,A,963,NOLIS Pau,2,,,,
+14,30/01/24,,,singles,,,,,,,TT PRAT,Y,850,DURAN Roberto Carlos,3,,,,,,DECATHLON BADALONA,C,10639,CRESPO Pere,1,,,,
+14,30/01/24,,,singles,,,,,,,TT PRAT,Z,744,ARDILA Juan Carlos,1,,,,,,DECATHLON BADALONA,B,17592,LI Yao Jun,3,,,,
+14,30/01/24,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,Y,651,CARBONELL Daniel,3,,,,,,CTT OLESA,A,645,SUÑE Manel,0,,,,
+14,30/01/24,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,X,2159,GARCIA Daniel,3,,,,,,CTT OLESA,B,631,RUIZ Cristobal,1,,,,
+14,30/01/24,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,Z,395,EXPOSITO Juan Antonio,3,,,,,,CTT OLESA,C,4348,LLONGUERAS Valenti,0,,,,
+14,30/01/24,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,X,2159,GARCIA Daniel,3,,,,,,CTT OLESA,A,645,SUÑE Manel,2,,,,
+14,30/01/24,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,Y,651,CARBONELL Daniel,3,,,,,,CTT OLESA,C,4348,LLONGUERAS Valenti,0,,,,
+14,30/01/24,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,Z,395,EXPOSITO Juan Antonio,3,,,,,,CTT OLESA,B,631,RUIZ Cristobal,0,,,,
+14,30/01/24,,,singles,,,,,,,CN SABADELL ''A'',Y,7539,WEISZ Ignasi,3,,,,,,CTT CANET DE MAR,A,480,MAILLO Josep Manel,1,,,,
+14,30/01/24,,,singles,,,,,,,CN SABADELL ''A'',X,511,WEISZ Pere,3,,,,,,CTT CANET DE MAR,B,571,JODAR Mariano,0,,,,
+14,30/01/24,,,singles,,,,,,,CN SABADELL ''A'',Z,3637,BARBERA Joan,3,,,,,,CTT CANET DE MAR,C,583,COTS Josep,2,,,,
+14,30/01/24,,,singles,,,,,,,CN SABADELL ''A'',X,511,WEISZ Pere,3,,,,,,CTT CANET DE MAR,A,480,MAILLO Josep Manel,1,,,,
+14,30/01/24,,,singles,,,,,,,CN SABADELL ''A'',Y,7539,WEISZ Ignasi,3,,,,,,CTT CANET DE MAR,C,583,COTS Josep,1,,,,
+14,30/01/24,,,singles,,,,,,,CN SABADELL ''A'',Z,3637,BARBERA Joan,3,,,,,,CTT CANET DE MAR,B,571,JODAR Mariano,0,,,,
